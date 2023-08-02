@@ -1,0 +1,6 @@
+.metals/
+.scala-build/
+.vscode/
+project/
+target/
+*.v
