@@ -4,3 +4,6 @@
 project/
 target/
 *.v
+*.asc
+*.bin
+*.json
