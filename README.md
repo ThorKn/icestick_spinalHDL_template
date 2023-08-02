@@ -19,3 +19,7 @@ cd icestick
 make prog
 ```
 
+### What this example does
+Pin PMOD1 is an input. 
+Pin LED D1 (99) is an output.
+Input and output gets connected via an inverter.  
